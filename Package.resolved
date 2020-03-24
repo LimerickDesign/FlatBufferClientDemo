@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "FlatBuffers",
+        "repositoryURL": "https://github.com/mustiikhalil/flatbuffers.git",
+        "state": {
+          "branch": "swift",
+          "revision": "e9c9a396fd3cba89444d69aaab8742597112d697",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
